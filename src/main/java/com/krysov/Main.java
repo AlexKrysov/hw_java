@@ -14,5 +14,4 @@ public class Main {
     Map.findMap();
     Map.removeMap();
     }
-
 }
