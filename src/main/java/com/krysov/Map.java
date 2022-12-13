@@ -22,11 +22,11 @@ public class Map {
         hashMap.remove("Я там еще не доел");
         hashMap.remove("хотя можно мезим");
         System.out.println(hashMap.toString());
-        int i = 5;
-        while (i >= 0)
+        int i = 1;
+        while (i <= 5)
         {
             System.out.println("считаем капли " + i);
-            i--;
+            i++;
         }
     }
 }
